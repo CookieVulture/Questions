@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e7a9604-75ea-41f8-bf26-b21130ce5346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Array Partition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,29 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/smaller numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/3Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Array/Subarray.py">
+        <entry file="file://$PROJECT_DIR$/Array/Array Partition.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
-              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -60,6 +42,7 @@
         <option value="$PROJECT_DIR$/Array/smaller numbers.py" />
         <option value="$PROJECT_DIR$/Array/3Sum.py" />
         <option value="$PROJECT_DIR$/Array/Subarray.py" />
+        <option value="$PROJECT_DIR$/Array/Array Partition.py" />
       </list>
     </option>
   </component>
@@ -192,7 +175,8 @@
     <MESSAGE value="Question 1313 completed" />
     <MESSAGE value="Question 1365 completed" />
     <MESSAGE value="Question 15 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 15 completed" />
+    <MESSAGE value="Question 53 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 53 completed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Array/Run-length encoded list.py">
@@ -216,6 +200,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Array/3Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -223,10 +214,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/Subarray.py">
+    <entry file="file://$PROJECT_DIR$/Array/Array Partition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
-          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
