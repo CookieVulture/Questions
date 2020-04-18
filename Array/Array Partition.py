@@ -24,8 +24,9 @@ All the integers in the array will be in the range of [-10000, 10000].
 
 # My solution
 
+
 class Solution:
-    def arrayPairSum(self, nums: List[int]) -> int:
+    def arrayPairSum(self, nums):
         nums.sort()
         sum1 = 0
         i = 0
