@@ -92,7 +92,7 @@ def majorityElement3(self, nums):
         if count > len(nums)//2:
             return nums[i]
 
-# Sotring
+# Sorting
 def majorityElement4(nums):
     nums.sort()
     return nums[len(nums)//2]
